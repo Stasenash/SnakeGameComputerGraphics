@@ -1,0 +1,11 @@
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\bin\Debug\sounds\109662__grunz__success.wav
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\bin\Debug\sounds\159408__noirenex__life-lost-game-over.wav
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\bin\Debug\Snake.exe
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\bin\Debug\Snake.pdb
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\obj\x86\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\obj\x86\Debug\Snake.exe
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\stasi\Downloads\Snake-master\Snake-master\Snake\obj\x86\Debug\Snake.SnakeGameForm.resources
